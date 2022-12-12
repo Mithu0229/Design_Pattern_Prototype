@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Prototype Design Pattern specifies the kind of objects to create using a prototypical instance, and create new objects by copying this prototype
 namespace Design_Pattern_Prototype
 {
     public class Employee
